@@ -1,8 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=DEVmatrose&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=DEVmatrose&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
-  <img alt="DEVmatrose Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=DEVmatrose&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%">
-</picture>
+<div align="center">
+  <img src="./assets/devmatrose-banner.png" alt="DEVmatrose - We Architect Economic Moats" width="100%">
+</div>
 
 <div align="center">
 
