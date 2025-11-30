@@ -136,7 +136,7 @@ Jetzt nutze ich diese Erfahrung, um maßgeschneiderte KI-Lösungen zu bauen, die
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-kontakt@devmatrose.de-667eea?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devmatrose@proton.me)
+[![Email](https://img.shields.io/badge/Email-devmatrose@proton.me-667eea?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devmatrose@proton.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DEVmatrose-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devmatrose-alexander-friedland-a5792b349/)
 [![Instagram](https://img.shields.io/badge/Nostr-DEVmatrose-8B5CF6?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/devmatrose/)
 
