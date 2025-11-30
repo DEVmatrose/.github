@@ -45,7 +45,7 @@ Unser Hintergrund liegt im Bau massiver sozialer Strukturen. Was 2004 mit dem So
 Heute nutzen wir diese Erfahrung für das nächste Level: **Künstliche Intelligenz.**
 
 <div align="center">
-  <img src="./assets/devmatrose-sailing.png" alt="DEVmatrose - Navigating the Digital Ocean" width="80%">
+  <img src="https://raw.githubusercontent.com/DEVmatrose/.github/main/profile/assets/devmatrose-sailing.png" alt="DEVmatrose - Navigating the Digital Ocean" width="80%">
 </div>
 
 ---
@@ -65,7 +65,7 @@ In den letzten 10 Monaten haben wir unseren Fokus radikal auf die Integration vo
 > **Wir lösen das "Data-Quality"-Problem, bevor es entsteht.**
 
 <div align="center">
-  <img src="./assets/devmatrose-ai-core.png" alt="DEVmatrose - AI Core Architecture" width="80%">
+  <img src="https://raw.githubusercontent.com/DEVmatrose/.github/main/profile/assets/devmatrose-ai-core.png" alt="DEVmatrose - AI Core Architecture" width="80%">
 </div>
 
 ---
@@ -115,7 +115,7 @@ Ein Beweis unserer Philosophie **"Konzept bis Schlüsselübergabe"**:
 </div>
 
 <div align="center">
-  <img src="./assets/devmatrose-compass.png" alt="DEVmatrose - Navigating with AI" width="80%">
+  <img src="https://raw.githubusercontent.com/DEVmatrose/.github/main/profile/assets/devmatrose-compass.png" alt="DEVmatrose - Navigating with AI" width="80%">
 </div>
 
 ---
