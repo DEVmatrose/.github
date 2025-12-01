@@ -142,8 +142,6 @@ Jetzt nutze ich diese Erfahrung, um maßgeschneiderte KI-Lösungen zu bauen, die
 [![Instagram](https://img.shields.io/badge/Instagram-DEVmatrose-8B5CF6?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/devmatrose/)
 [![Youtube](https://img.shields.io/badge/Youtube-DEVmatrose-8B5CF6?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/@DEVmatrose)
 
-
-https://www.youtube.com/@DEVmatrose
 </div>
 
 ---
