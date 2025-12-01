@@ -80,6 +80,7 @@ Wir glauben an Technologie, die dem Besitzer gehört. Wir kombinieren High-End A
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
 ![ActivityPub](https://img.shields.io/badge/ActivityPub-F1007E?style=for-the-badge&logo=activitypub&logoColor=white)
 
+
 **Value Layers**
 
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
@@ -139,7 +140,10 @@ Jetzt nutze ich diese Erfahrung, um maßgeschneiderte KI-Lösungen zu bauen, die
 [![Email](https://img.shields.io/badge/Email-devmatrose@proton.me-667eea?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devmatrose@proton.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DEVmatrose-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devmatrose-alexander-friedland-a5792b349/)
 [![Instagram](https://img.shields.io/badge/Instagram-DEVmatrose-8B5CF6?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/devmatrose/)
+[![Youtube](https://img.shields.io/badge/Youtube-DEVmatrose-8B5CF6?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/@DEVmatrose)
 
+
+https://www.youtube.com/@DEVmatrose
 </div>
 
 ---
